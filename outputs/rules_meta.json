@@ -1,0 +1,10 @@
+{
+  "source": "dataset\\docs\\FSAE_Rules_2024_V1.pdf",
+  "num_pages": 140,
+  "detected_headers": [
+    "Formula SAE® Rules 2024",
+    "© 2023 SAE International"
+  ],
+  "detected_footers": [],
+  "sections_found": 1
+}
