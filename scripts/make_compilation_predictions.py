@@ -30,8 +30,8 @@ LLM_TEMPERATURE = 0.0
 LLM_MAX_TOKENS = 800
 
 # Ollama settings (edit if needed)
-OLLAMA_BASE_URL = "http://localhost:11500"
-OLLAMA_MODEL    = "granite3-moe:3b"   # ganti ke tag Granite yang kamu pakai, mis. "granite:latest"
+OLLAMA_BASE_URL = "http://localhost:11434"
+OLLAMA_MODEL    = "granite3.2-vision:2b"
 
 # ---------- Text utils ----------
 ID_RX = re.compile(r"^(?P<fam>[A-Z]{1,2})\.(?P<num>.+)$")
